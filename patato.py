@@ -1,0 +1,2 @@
+def patato(request):
+    pass
