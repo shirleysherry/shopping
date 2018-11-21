@@ -1,0 +1,39 @@
+{% extends 'public/base.html' %}
+{% load static %}
+
+
+{% block header %}
+    <header data-am-widget="header" class="am-header am-header-default sq-head ">
+        <div class="am-header-left am-header-nav">
+            <a href="javascript:history.back()" class="">
+                <i class="am-icon-chevron-left"></i>
+            </a>
+        </div>
+        <h1 class="am-header-title">
+            {% block header_title %}
+                <a href="" class="">登录</a>
+            {% endblock %}
+        </h1>
+    </header>
+    <div style="height: 49px;"></div>
+{% endblock %}
+
+{% block content %}
+    <div style="height: 3rem;"></div>
+    <input type="text" name="mobile" id="mobile" placeholder="请输入用户名/手机号" class="login-name">
+    <input type="password" name="password" id="password" placeholder="请输入密码" class="login-password">
+    <input type="button" class="login-btn" value="我要登录">
+    <div class="agree">
+        <a href="{% url 'todo:注册' %}">免费注册</a>
+        <a href="forgetpassword.html" class="forget">忘记密码？</a>
+    </div>
+    <div class="line"></div>
+    <div class="line-text">第三方账号登录</div>
+    <ul class="second-login">
+        <li><a href=""><img src="{% static 'images/wxlogin.png' %}"/></a></li>
+        <li><a href=""><img src="{% static 'images/wxlogin.png' %}"/></a></li>
+        <li><a href=""><img src="{% static 'images/sinalog.png' %}"/></a></li>
+    </ul>
+
+{% endblock %}
+
