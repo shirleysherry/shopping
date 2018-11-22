@@ -1,191 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="575c6475-4dc3-4f2e-997d-3b84b0fd2554" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/todo/helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/todo/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/todo_shop/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/todo_shop/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/todo_trade/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/todo_trade/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/base_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/iconfont/iconfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/iconfont/iconfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/iconfont/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/iconfont/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/amazeui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/ch.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/check.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/_notes/dwsync.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/1-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/1-icon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/1-icon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/1-icon3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/1-icon4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/1-icon5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/1-icon6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/1-icon7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/2-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/2icon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/2icon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/2icon3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/3icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/3icon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/3icon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/IMG_3574_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/add.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/brand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/candar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/care.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/city.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/contactqq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/contacttele.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/dui.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/ewm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/game.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/gift.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/gqhb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/grayxin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/guoqi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/gz1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/gz2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/gz3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/herat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/hotline.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icon3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icon4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icon5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icon6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icon7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icon8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/infortx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/j_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/j_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/j_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/jp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/ka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/lz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/m_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/m_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/m_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/m_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/m_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/m_07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/m_08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/m_09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/memtx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/moneysafty.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/moneytele.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/my.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/order-bot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/order-my.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/order-pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/order-top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/order.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/ph.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/qd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/qiandao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/qqlogin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/redherat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/redxin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/s1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/s2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/s3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/s4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/s5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/s6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/shop1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/shop2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/shop3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/shop4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/shopcart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sign-up-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sinalog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/skongjian.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sqq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/ssina.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/step.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sweixin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sweixinfriend.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tele.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/test.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/test1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/test10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/test11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/test2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/test21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/test3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/test4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/test5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/test6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/test7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/test8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/test9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/ts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tx1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/update.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/volume.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/wei.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/weichong.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/wl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/wxlogin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/ye.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/yhq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/yzm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/zhi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/amazeui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/area.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/date.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/iscroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-1.10.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.mobile-1.4.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/popup.mini.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/time.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/public/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/todo/forgetpassword.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/todo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/todo/infor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/todo/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/todo/member.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/todo/reg.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Supermarket.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Supermarket.iml" afterDir="false" />
+    <list default="true" id="575c6475-4dc3-4f2e-997d-3b84b0fd2554" name="Default" comment="提交">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bcb1c504-4c3e-4bd7-8776-8c903bdcfab8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bcb1c504-4c3e-4bd7-8776-8c903bdcfab8/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_order/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_order/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_order/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_order/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_order/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_order/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_shop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_shop/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_shop/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_shop/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_shop/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_shop/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_trade/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_trade/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_trade/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_trade/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_trade/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/todo_trade/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Supermarket/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Supermarket/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Supermarket/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Supermarket/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/todo_order/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/todo_order/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/todo/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/todo/helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/todo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/todo/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/todo/infor.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/todo/infor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/todo/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/todo/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/todo/reg.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/todo/reg.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -236,37 +90,61 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/todo/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+            <state relative-caret-position="293">
+              <caret line="102" column="72" lean-forward="true" selection-start-line="102" selection-start-column="8" selection-end-line="102" selection-end-column="72" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
-                <element signature="e#889#939#0" />
-                <element signature="e#966#1008#0" />
-                <element signature="e#1034#1075#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="helper.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="user" pinned="false" current-in-tab="false">
+        <entry file="das://bcb1c504-4c3e-4bd7-8776-8c903bdcfab8/schema/main/table/user">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/todo/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1042">
+              <caret line="91" selection-start-line="91" selection-end-line="91" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helper.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/apps/todo/helper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-147">
+              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/python源码时代/课件/11月/supermarket1/SpMarket/apps/sp_user/views.py">
+      <file leaf-file-name="reg.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/todo/reg.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1785">
-              <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+            <state relative-caret-position="455">
+              <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Supermarket/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="140" column="2" lean-forward="true" selection-start-line="140" selection-start-column="2" selection-end-line="140" selection-end-column="2" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#315#324#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -275,43 +153,10 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/todo/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <state relative-caret-position="231">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reg.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/todo/reg.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="58" column="21" lean-forward="true" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/todo/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="30" column="47" lean-forward="true" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/todo/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#49#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -339,20 +184,21 @@
         <option value="$PROJECT_DIR$/db/base_model.py" />
         <option value="$PROJECT_DIR$/todo/models.py" />
         <option value="$PROJECT_DIR$/todo/views.py" />
-        <option value="$PROJECT_DIR$/Supermarket/settings.py" />
         <option value="$PROJECT_DIR$/Supermarket/urls.py" />
         <option value="$PROJECT_DIR$/apps/todo_order/urls.py" />
         <option value="$PROJECT_DIR$/templates/public/base.html" />
-        <option value="$PROJECT_DIR$/templates/todo/login.html" />
         <option value="$PROJECT_DIR$/templates/todo/index.html" />
         <option value="$PROJECT_DIR$/templates/todo/forgetpassword.html" />
         <option value="$PROJECT_DIR$/templates/todo/member.html" />
         <option value="$PROJECT_DIR$/apps/todo/models.py" />
-        <option value="$PROJECT_DIR$/templates/todo/infor.html" />
+        <option value="$PROJECT_DIR$/templates/todo/login.html" />
         <option value="$PROJECT_DIR$/apps/todo/forms.py" />
-        <option value="$PROJECT_DIR$/apps/todo/views.py" />
+        <option value="$PROJECT_DIR$/templates/todo/infor.html" />
         <option value="$PROJECT_DIR$/apps/todo/urls.py" />
+        <option value="$PROJECT_DIR$/Supermarket/settings.py" />
+        <option value="$PROJECT_DIR$/apps/todo/helper.py" />
         <option value="$PROJECT_DIR$/templates/todo/reg.html" />
+        <option value="$PROJECT_DIR$/apps/todo/views.py" />
       </list>
     </option>
   </component>
@@ -366,9 +212,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="12" />
-    <option name="y" value="6" />
-    <option name="width" value="1373" />
+    <option name="x" value="-321" />
+    <option name="y" value="8" />
+    <option name="width" value="1031" />
     <option name="height" value="726" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -377,6 +223,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -398,46 +245,38 @@
             <path>
               <item name="Supermarket" type="b2602c69:ProjectViewProjectNode" />
               <item name="Supermarket" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="Supermarket" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Supermarket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Supermarket" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Supermarket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Supermarket" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="todo" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="D:/python源码时代/课件/11月/supermarket11201" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\project\shopping\Supermarket\apps" />
-      <recent name="D:\project\shopping\Supermarket" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\shopping\Supermarket" />
       <recent name="D:\project\shopping\Supermarket\apps\todo" />
       <recent name="D:\project\shopping\Supermarket\templates\todo" />
       <recent name="D:\project\shopping\Supermarket\apps\todo_trade" />
       <recent name="D:\project\shopping\Supermarket\apps\todo_shop" />
-      <recent name="D:\project\shopping\Supermarket\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\shopping\Supermarket\apps" />
+      <recent name="D:\project\shopping\Supermarket" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -467,7 +306,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="launchJavascriptDebuger" value="false" />
-      <option name="port" value="8001" />
+      <option name="port" value="8000" />
       <option name="host" value="" />
       <option name="additionalOptions" value="" />
       <option name="browserUrl" value="" />
@@ -488,9 +327,17 @@
       <option name="presentableId" value="Default" />
       <updated>1542528578309</updated>
     </task>
+    <task id="LOCAL-00001" summary="hghghg">
+      <created>1542790654796</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542790654796</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -503,53 +350,53 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32561985" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" weight="0.32838285" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289256" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3272727" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.069421485" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.3272727" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49917355" visible="true" weight="0.11875945" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.016528925" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.1338843" />
+      <window_info anchor="bottom" id="Database Console" order="9" weight="0.3289256" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917355" visible="true" weight="0.15355521" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3267776" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.5008264" side_tool="true" weight="0.26096824" />
       <window_info id="Favorites" order="2" sideWeight="0.5012285" side_tool="true" weight="0.26096824" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31900826" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Database Console" order="9" weight="0.3289256" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="manage.py@Supermarket" order="8" weight="0.24675325" />
+      <window_info anchor="bottom" id="manage.py@Supermarket" order="8" weight="0.21818182" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917355" visible="true" weight="0.15355521" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49917355" visible="true" weight="0.14220877" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289256" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.5008264" side_tool="true" weight="0.26096824" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289256" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.13419913" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3272727" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.3272727" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50075644" side_tool="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32561985" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="bottom" id="Database Console" order="14" weight="0.3289256" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22644629" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="manage.py@Supermarket" order="13" weight="0.24675325" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3272727" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.10247934" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32749742" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924356" weight="0.1338843" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50075644" side_tool="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.3289256" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="manage.py@Supermarket" order="13" weight="0.21818182" />
       <window_info id="Favorites" order="2" sideWeight="0.5012285" side_tool="true" weight="0.26096824" />
     </layout-to-restore>
   </component>
@@ -559,56 +406,18 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hghghg" />
+    <MESSAGE value="hahaha" />
+    <MESSAGE value="提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="15" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/python源码时代/课件/11月/2018-11-17-Django高级/code/todolist/todo/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5859">
-          <caret line="287" column="16" selection-start-line="287" selection-start-column="16" selection-end-line="287" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Supermarket/settings.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Supermarket/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/css/ch.css" />
-    <entry file="file://$PROJECT_DIR$/static/assets/fonts/_notes/dwsync.xml" />
-    <entry file="file://$PROJECT_DIR$/static/css/ch.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/fonts/_notes/dwsync.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/area.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/todo/apps.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/python源码时代/课件/11月/2018-11-14-Django基础项目/code/todolist/todolist/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-525" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Super/about.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/python源码时代/课件/11月/2018-11-14-Django基础项目/code/todolist/todo/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2205" />
-      </provider>
-    </entry>
     <entry file="file://D:/python源码时代/课件/11月/2018-11-14-Django基础项目/code/todolist/todolist/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-232" />
@@ -630,13 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../todolisit/todo/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -668,13 +470,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://bcb1c504-4c3e-4bd7-8776-8c903bdcfab8/schema/main/table/todo_user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://bcb1c504-4c3e-4bd7-8776-8c903bdcfab8/schema/main/table/todo_user" />
     <entry file="das://bcb1c504-4c3e-4bd7-8776-8c903bdcfab8/schema/main/table/user.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
@@ -686,13 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="688">
           <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://bcb1c504-4c3e-4bd7-8776-8c903bdcfab8/schema/main/table/user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -716,16 +505,6 @@
     <entry file="file://$PROJECT_DIR$/apps/todo_trade/urls.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Supermarket/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-          <folding>
-            <element signature="e#315#324#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Supermarket/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -733,17 +512,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/todo/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/todo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#a#0;n#div#0;n#header#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="e#6854#6860#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#body#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -754,13 +533,6 @@
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/base_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -780,13 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/todo/infor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1449">
-          <caret line="69" column="21" lean-forward="true" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/todo/forgetpassword.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-201">
@@ -801,16 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/todo/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="30" column="47" lean-forward="true" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/public/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1092">
@@ -818,72 +573,180 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/python源码时代/课件/11月/2018-11-21-Django超市项目-用户模块/code/supermarket/SpMarket/apps/sp_user/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/base_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/todo/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/python源码时代/课件/11月/SpMarket/apps/sp_user/helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../todolisit/todo/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python源码时代/课件/11月/SpMarket/apps/sp_user/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="103" column="22" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python源码时代/课件/11月/SpMarket/apps/sp_user/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="94" column="16" lean-forward="true" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/todo/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/todo/infor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/virtual/django11/Lib/site-packages/django_redis/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/virtual/django11/Lib/site-packages/django/core/cache/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/virtual/django11/Lib/site-packages/django_redis/cache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1391">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://bcb1c504-4c3e-4bd7-8776-8c903bdcfab8/schema/main/table/django_session">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python源码时代/课件/11月/supermarket11201/SpMarket/apps/sp_user/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1064" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dysms_python/const.py" />
+    <entry file="file://D:/python源码时代/课件/11月/supermarket1/SpMarket/apps/sp_user/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-233">
+          <caret line="138" column="66" lean-forward="true" selection-start-line="138" selection-start-column="66" selection-end-line="138" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/apps/todo/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="356">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/todo/helper.py">
+    <entry file="file://D:/virtual/django11/Lib/site-packages/django/core/handlers/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/python源码时代/课件/11月/supermarket1/SpMarket/apps/sp_user/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="96">
+          <caret line="184" selection-start-line="184" selection-end-line="184" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/todo/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        <state relative-caret-position="231">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/todo/views.py">
+    <entry file="file://$PROJECT_DIR$/apps/todo/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        <state relative-caret-position="1042">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#889#939#0" />
-            <element signature="e#966#1008#0" />
-            <element signature="e#1034#1075#0" />
+            <element signature="e#0#24#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/python源码时代/课件/11月/2018-11-21-Django超市项目-用户模块/code/supermarket/SpMarket/apps/sp_user/views.py">
+    <entry file="file://$PROJECT_DIR$/Supermarket/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1839">
+        <state relative-caret-position="131">
+          <caret line="140" column="2" lean-forward="true" selection-start-line="140" selection-start-column="2" selection-end-line="140" selection-end-column="2" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
+            <element signature="e#315#324#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://bcb1c504-4c3e-4bd7-8776-8c903bdcfab8/schema/main/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/todo/reg.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="58" column="21" lean-forward="true" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+        <state relative-caret-position="455">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/todo/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="102" column="72" lean-forward="true" selection-start-line="102" selection-start-column="8" selection-end-line="102" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python源码时代/课件/11月/2018-11-21-Django超市项目-用户模块/resource/dysms_python/dysms_python/setup.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/todo/helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>

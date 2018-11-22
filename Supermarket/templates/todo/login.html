@@ -19,13 +19,18 @@
 {% endblock %}
 
 {% block content %}
+    <form action="" method="post" novalidate>
+    {% csrf_token %}
     <div style="height: 3rem;"></div>
-    <input type="text" name="mobile" id="mobile" placeholder="请输入用户名/手机号" class="login-name">
+    <input type="text" name="telephone" id="mobile" placeholder="请输入用户名/手机号" class="login-name">
+        <p class="am-text-danger">{{ errors.telephone.0 }}</p>
     <input type="password" name="password" id="password" placeholder="请输入密码" class="login-password">
-    <input type="button" class="login-btn" value="我要登录">
+        <p class="am-text-danger">{{ errors.password.0 }}</p>
+    <input type="submit" class="login-btn" value="我要登录">
+    </form>
     <div class="agree">
         <a href="{% url 'todo:注册' %}">免费注册</a>
-        <a href="forgetpassword.html" class="forget">忘记密码？</a>
+        <a href="{% url 'todo:忘记密码' %}" class="forget">忘记密码？</a>
     </div>
     <div class="line"></div>
     <div class="line-text">第三方账号登录</div>

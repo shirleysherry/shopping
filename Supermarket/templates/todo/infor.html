@@ -2,6 +2,9 @@
 {% load static %}
 
 {% block content %}
+
+    <form action="" method="post">
+    {% csrf_token %}
     <body>
     <header data-am-widget="header" class="am-header am-header-default sq-head ">
         <div class="am-header-left am-header-nav">
@@ -68,13 +71,14 @@
         </li>
         <li>
             <i>手机</i>
-            <input class="infor-tele" placeholder="13012345678"/>
+            <input class="infor-tele" placeholder="手机号"/>
         </li>
-            <input type="button" class="infor-btn" value="保存"/>
+            <input type="submit" class="infor-btn" value="保存"/>
     </ul>
     <script src="{% static 'js/jquery.min.js' %}"></script>
     <script src="{% static 'js/amazeui.min.js' %}"></script>
     </body>
+    </form>
 {% endblock %}
 
 
